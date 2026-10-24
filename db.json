@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Complete Web Application Lab Report",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "title": "Submit Completed Lab ZIP Archive",
+      "priority": "High",
+      "status": "Completed",
+      "id": "K_EaNILwboY"
+    },
+    {
+      "title": "API Verification Test",
+      "priority": "Medium",
+      "status": "Pending",
+      "id": "WtDgXCvGDgA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
